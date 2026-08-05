@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aditya591-wq/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aditya591-wq/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Aditya591-wq/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aditya591-wq/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aditya591-wq/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Aditya591-wq/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Aditya591-wq/DSA/tree/main/0704-binary-search/) | Easy |
