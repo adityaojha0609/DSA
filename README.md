@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya591-wq/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya591-wq/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Aditya591-wq/DSA/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Aditya591-wq/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Aditya591-wq/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Aditya591-wq/DSA/tree/main/0268-missing-number/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aditya591-wq/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya591-wq/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya591-wq/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Aditya591-wq/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Aditya591-wq/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
