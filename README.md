@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Aditya591-wq/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Aditya591-wq/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Aditya591-wq/DSA/tree/main/0268-missing-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/adityaojha0609/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +113,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adityaojha0609/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/adityaojha0609/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/adityaojha0609/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
