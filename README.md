@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/adityaojha0609/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aditya591-wq/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aditya591-wq/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/adityaojha0609/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya591-wq/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 |  |
@@ -142,4 +143,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityaojha0609/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/adityaojha0609/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
